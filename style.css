@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.image{
+    height: 75px;
+    border-radius: 5px;
+    margin: 2px;
+}
+.full{
+    width: 50%;
+    border-radius: 5px;
+}
